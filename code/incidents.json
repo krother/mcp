@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "printer on fire",
+        "description": "Smoke is coming out of the big printer next to the kitchen.",
+        "category": "hardware",
+        "severity": 5,
+        "affected_users": 40,
+        "location": "B2-3",
+        "status": "open",
+        "created": "2026-10-01T08:15:00"
+    },
+    {
+        "id": 2,
+        "title": "VPN disconnects every hour",
+        "description": "My VPN connection drops after about 60 minutes and I have to log in again.",
+        "category": "network",
+        "severity": 3,
+        "affected_users": 12,
+        "location": "B1-2",
+        "status": "open",
+        "created": "2026-10-01T10:42:00"
+    },
+    {
+        "id": 3,
+        "title": "Phishing mail from fake CEO",
+        "description": "Several people got an email asking them to buy gift cards for the CEO.",
+        "category": "security",
+        "severity": 4,
+        "affected_users": 150,
+        "location": "B1-1",
+        "status": "closed",
+        "created": "2026-10-02T09:05:00",
+        "resolution": "Blocked the sender domain and warned all staff by email."
+    },
+    {
+        "id": 4,
+        "title": "Spreadsheet crashes on startup",
+        "description": "The spreadsheet program closes immediately after opening any file.",
+        "category": "software",
+        "severity": 2,
+        "affected_users": 1,
+        "location": "B3-4",
+        "status": "open",
+        "created": "2026-10-03T14:30:00"
+    },
+    {
+        "id": 5,
+        "title": "Coffee machine shows error E42",
+        "description": "The coffee machine on our floor only displays E42 and refuses to work.",
+        "category": "other",
+        "severity": 1,
+        "affected_users": 25,
+        "location": "B2-1",
+        "status": "open",
+        "created": "2026-10-04T07:55:00"
+    }
+]
