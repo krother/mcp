@@ -1,5 +1,5 @@
 
-project = 'KI-Anwendungen mit MCP verbinden'
+project = 'Connecting AI Applications with MCPs'
 copyright = '2026, Kristian Rother'
 author = 'Kristian Rother'
 release = '1.0'
